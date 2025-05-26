@@ -14,3 +14,29 @@ This is a clean and responsive landing page built using **HTML5** and **CSS3**. 
 - ✅ Hero Section with Heading, Text, and CTA Button
 - ✅ Footer with Social Media Icons
 
+---
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- Flexbox
+- Media Queries
+- VS Code + Live Server
+
+---
+
+## 📷 Preview
+
+> ![Landing Page Preview](screenshot.png)
+*(Add your own screenshot and rename it `screenshot.png` if needed)*
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/landing-page.git
+
+
